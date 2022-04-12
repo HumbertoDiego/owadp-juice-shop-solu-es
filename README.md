@@ -1,4 +1,4 @@
-# owadp-juice-shop-solu-es
+# owasp-juice-shop-solucoes
 ### VM: Ubuntu-18
 ### Desc-VM: Ubuntu-18 no IP 192.168.56.30
 ### Objetivo: Explorar as vulnarabilidades do Projeto Juice Shop da OWASP
